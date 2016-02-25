@@ -1,0 +1,9 @@
+#header {
+	background: #009530 url(https://btm-redmine/themes/schneider_electric/images/logo.png) no-repeat 2px;
+	background-position: center 5px;
+	background-size: 101px 30px;
+}
+
+a:link, a:visited {
+	color: #009530;
+}
