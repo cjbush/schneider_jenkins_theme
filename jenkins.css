@@ -7,3 +7,30 @@
 a:link, a:visited {
 	color: #488ECB;
 }
+#jenkins .yui-button.primary button {
+	background-color: #42b4e6;
+	color: #fff;
+	border: 0px solid white;
+}
+#jenkins .yui-button.primary button:hover, #jenkins .yui-button.primary .hover {
+	background-image: -webkit-linear-gradient(top, #59bde9 0%, #42b4e6 100%);
+	background-image: webkit-gradient(linear, left top, left bottom, color-stop(0%, #59bde9), color-stop(100% #42b4e6));
+	background-image: linear-gradient(top, #59bde9 0%, #42b4e6 100%);
+	border: 0px solid white;
+}
+#jenkins .yui-button.danger button {
+	background-color: #DC0A0A;
+	color: #fff;
+	border: 0px solid white;
+}
+#jenkins .yui-button button {
+	background-color: #E6E6E6;
+	color: #434343;
+	border: 0px solid white;
+}
+#jenkins .yui-button button:hover, #jenkins .yui-button .hover {
+	background-color: #CBCBCB;
+	border: 0px solid white;
+}
+	
+	
